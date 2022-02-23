@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hey 👋
 
-<!--
-**saswesley/saswesley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Wesley Sas 👨‍💻🇧🇷
 
-Here are some ideas to get you started:
+I'm a Full-Stack developer and currently studying System Analysis and Development at Unip.  💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about solving problems and learning. Always open to new challenges and ready for new opportunities.
+
+### 🌍 "Quanto mais eu sei, mais eu sou" 🧠
+
+- 📍 From SP living in São Paulo
+- 💻 Programming languages: C, C#, JavaScript
+- 📈 I am looking for an opportunity to develop and improve my skills
+
+Reach me out 👇🏼
+
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saswesley/)](https://www.linkedin.com/in/saswesley/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-orange?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/saswesley/)](https://www.instagram.com/saswesley/) 
