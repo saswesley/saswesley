@@ -1,6 +1,6 @@
 # Hey 👋
 
-My name is Wesley Sas 👨‍💻🇧🇷
+My name is Wesley S.A.Sousa 👨‍💻🇧🇷
 
 I'm a Full-Stack developer and currently studying System Analysis and Development at Unip.  💻
 
